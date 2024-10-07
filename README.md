@@ -1,5 +1,5 @@
 # awesome-linux-kernel-fuzzing
-This repository aims to provide a curated list of research papers（from 2019） focusing on linux kernel fuzzing
+This repository aims to provide a curated list of research papers（from 2019） focusing on linux kernel fuzzing. Papers without *fuzz* and *kernel* keywords in the title may be missed.
 
 --------------------------------------------------------------------------------------------------------------------------
 ### [S&P'19] Razzer: Finding Kernel Race Bugs through Fuzzing
